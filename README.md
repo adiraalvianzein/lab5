@@ -1,4 +1,4 @@
-# lab5
+# Lab5 Adira Alvian Zein
 
 # Belajar JavaScript
 Untuk Awalan Buat File Folder Dengan Nama Lab5
